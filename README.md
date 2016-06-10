@@ -4,8 +4,12 @@ This is a very simple react and redux async example.
 ## Installation
 
 * Install [Node(https://nodejs.org)]
-* Run this command in terminal 
+* Install the node modules for this package 
 ```sh
-npm install material-ui
+npm install
+```
+* Start the app
+```sh
+npm start
 ```
 
