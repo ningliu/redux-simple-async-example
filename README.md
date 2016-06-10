@@ -5,6 +5,9 @@ This is a very simple react and redux async example.
 
 * Install [Node](https://nodejs.org)
 * Go to the folder of this project
+```sh
+cd redux-simple-async-example
+```
 * Install the node modules for this package 
 ```sh
 npm install
