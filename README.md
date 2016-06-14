@@ -1,5 +1,6 @@
 # redux-simple-async-example
 This is a very simple react and redux async example.
+<p>This instruction works on Windows, Mac, or Linux.</p>
 
 ## Installation
 
